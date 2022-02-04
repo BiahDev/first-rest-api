@@ -1,0 +1,19 @@
+{
+  "name": "first-api-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BiahDev/first-rest-api.git"
+  },
+  "author": "Ana Beatriz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BiahDev/first-rest-api/issues"
+  },
+  "homepage": "https://github.com/BiahDev/first-rest-api#readme"
+}
