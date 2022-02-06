@@ -1,13 +1,13 @@
 
 # 📋 API Rest
-Um pequeno sistema de agendamento/atendimento para um petshop, criado junto com os cursos da alura de MySQL e API Rest com Node.js e Express.Colunas das tabelas:
-- cliente
-- pet
-- servico
-- status
-- observacoes
-- data
-- dataCriacao
+Um pequeno sistema de agendamento/atendimento para um petshop, criado junto com os cursos da alura de MySQL e API Rest com Node.js e Express. Colunas da tabela:
+- Cliente
+- Pet
+- Serviço
+- Status
+- Observações
+- Data
+- Data decriação
 
 ## ⚡️ Tech Stack
 As seguintes ferramentas foram usadas na construção do projeto:
