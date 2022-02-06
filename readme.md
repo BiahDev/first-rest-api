@@ -1,6 +1,13 @@
 
 # 📋 API Rest
-Um pequeno sistema de agendamento/atendimento para um petshop, criado junto com os cursos da alura de MySQL e API Rest com Node.js e Express.
+Um pequeno sistema de agendamento/atendimento para um petshop, criado junto com os cursos da alura de MySQL e API Rest com Node.js e Express.Colunas das tabelas:
+- cliente
+- pet
+- servico
+- status
+- observacoes
+- data
+- dataCriacao
 
 ## ⚡️ Tech Stack
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -44,13 +51,13 @@ $ npm start
   - Execute com o método GET para listar todos os itens da tabela
 - Entre na rota http://localhost:3000/atendimentos/1
   - Execute com o método GET para listar um item específico da tabela
-- Entre na rota http://localhost:3000/atendimentos/1
+- Entre na rota http://localhost:3000/atendimentos
   - Execute com o método POST para inserir uma linha na tabela
-- Entre na rota http://localhost:3000/atendimentos/
+- Entre na rota http://localhost:3000/atendimentos/1
   - Execute com o método PATCH para alterar algum dado dessa tabela
 - Entre na rota http://localhost:3000/atendimentos/1
   - Execute com o método DELETE para deletar uma linha da tabela
-
+gut
 
 ## 🔍 Where to find me:
 
